@@ -1,5 +1,5 @@
-title_color: #000,
-intro_color: #444,
+title_color: #FFF,
+intro_color: #eee,
 bg_img: https://cdn.jsdelivr.net/gh/xiabor/img/Tibet/among-trees-f3-3840x2160.jpg,
 --
 title: 土土博客,
